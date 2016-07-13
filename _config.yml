@@ -1,0 +1,14 @@
+layout_spectrum: 0.6732276696711779
+typography_spectrum: 0.12368748034350574
+color:
+  brandStrength: 0.00012570316903293133
+  lightness: 0.2349585045594722
+  saturation: 0.23569038487039506
+  rhythmicContrast: 0.5058609740808606
+  brandColors:
+    - '#292929'
+    - '#5B7876'
+    - '#8F9E8B'
+    - '#F2E6B6'
+    - '#412A22'
+name: My First Grid Demo
